@@ -11,6 +11,7 @@ export class RegisterPage
         subscribeButton:'input[name="newsletter"]',
         policyCheckBox:'input[type="checkbox"][name="agree"]',
         continueButton:'input[type="submit"][value="Continue"]',   
+        
    }
    openURL()
    {
